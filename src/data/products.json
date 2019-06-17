@@ -1,0 +1,62 @@
+[
+	{
+		"title" : "Антистресс",
+		"price" : "110",
+		"link"  : "single.html",
+		"img"   : "/assets/img/products/20.jpg"
+	},
+	{
+		"title" : "Альпийский луг и бутоны хризантемы",
+		"price" : "2110",
+		"link"  : "single.html",
+		"img"   : "/assets/img/products/22.jpg"
+	},
+	{
+		"title" : "Сладкие сны",
+		"price" : "110",
+		"link"  : "single.html",
+		"img"   : "/assets/img/products/23.jpg"
+	},
+	{
+		"title" : "Бутоны хризантемы",
+		"price" : "110",
+		"link"  : "single.html",
+		"img"   : "/assets/img/products/20.jpg"
+	},
+	{
+		"title" : "Еда",
+		"price" : "110",
+		"link"  : "single.html",
+		"img"   : "/assets/img/products/22.jpg"
+	},
+	{
+		"title" : "Напитки",
+		"price" : "110",
+		"link"  : "single.html",
+		"img"   : "/assets/img/products/23.jpg"
+	},
+	{
+		"title" : "Специи",
+		"price" : "110",
+		"link"  : "single.html",
+		"img"   : "/assets/img/products/20.jpg"
+	},
+	{
+		"title" : "Специи",
+		"price" : "210",
+		"link"  : "single.html",
+		"img"   : "/assets/img/products/20.jpg"
+	},
+	{
+		"title" : "Биодобавки",
+		"price" : "110",
+		"link"  : "single.html",
+		"img"   : "/assets/img/products/20.jpg"
+	},
+	{
+		"title" : "Биодобавки",
+		"price" : "110",
+		"link"  : "single.html",
+		"img"   : "/assets/img/products/20.jpg"
+	}
+]

@@ -1,0 +1,42 @@
+[
+	{
+		"title" : "Еда",
+		"color" : "#c69a95",
+		"link"  : "eda.html"
+	},
+	{
+		"title" : "Напитки",
+		"color" : "#bcbc9f",
+		"link"  : "napitki.html"
+	},
+	{
+		"title" : "Специи",
+		"color" : "#da7153",
+		"link"  : "shop.html"
+	},
+	{
+		"title" : "Биодобавки",
+		"color" : "#dba05a",
+		"link"  : "shop.html"
+	},
+	{
+		"title" : "Еда",
+		"color" : "#c69a95",
+		"link"  : "eda.html"
+	},
+	{
+		"title" : "Напитки",
+		"color" : "#bcbc9f",
+		"link"  : "napitki.html"
+	},
+	{
+		"title" : "Специи",
+		"color" : "#da7153",
+		"link"  : "shop.html"
+	},
+	{
+		"title" : "Биодобавки",
+		"color" : "#dba05a",
+		"link"  : "shop.html"
+	}
+]
